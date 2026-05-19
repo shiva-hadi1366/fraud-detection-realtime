@@ -1,5 +1,4 @@
-📘 README.md — Fraud Detection Realtime (Deutsch)
-markdown
+📘 Fraud Detection Realtime 
 # 🔍 Real-Time Fraud Detection System  
 Ein End-to-End Machine-Learning-Projekt zur Erkennung von betrügerischen Transaktionen in Echtzeit – inklusive Datenanalyse, Modelltraining, FastAPI-Backend und Streamlit-Dashboard.
 
