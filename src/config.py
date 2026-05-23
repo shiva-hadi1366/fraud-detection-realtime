@@ -1,9 +1,7 @@
 MODEL_PATH = "models/fraud_model.pkl"
 SCALER_PATH = "models/scaler.pkl"
 
-TRAIN_DATA_PATH = "data/train.csv"
-TEST_DATA_PATH = "data/test.csv"
-
+DATA_PATH = "data/processed/transactions_processed.csv"
 RANDOM_STATE = 42
 TEST_SIZE = 0.2
 
