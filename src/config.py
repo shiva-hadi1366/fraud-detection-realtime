@@ -1,5 +1,4 @@
 MODEL_PATH = "models/fraud_model.pkl"
-SCALER_PATH = "models/scaler.pkl"
 
 DATA_PATH = "data/processed/transactions_processed.csv"
 RANDOM_STATE = 42
