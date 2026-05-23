@@ -1,5 +1,4 @@
-MODEL_PATH = "models/fraud_model.pkl"
-
+MODEL_PATH = "models/artifacts/fraud_model.pkl"
 DATA_PATH = "data/processed/transactions_processed.csv"
 RANDOM_STATE = 42
 TEST_SIZE = 0.2
