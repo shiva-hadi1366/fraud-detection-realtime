@@ -1,4 +1,11 @@
 import pandas as pd
+import os
+import sys
+
+# Fix relative imports
+current_dir = os.path.dirname(os.path.abspath(__file__))
+sys.path.insert(0, current_dir)
+
 from utils import load_model
 from config import MODEL_PATH, FEATURES
 
